@@ -1,6 +1,6 @@
 # SkyPrint
 
-A React implementation of [Davide Pacilio's](https://cruip.com/) free landing page template, [Holly](https://lukemcdonald.github.io/holly-react/).
+A React implementation of [Holly](https://lukemcdonald.github.io/holly-react/).
 
 # Getting Started
 
